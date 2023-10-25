@@ -24,7 +24,7 @@ You can find me here too 👇
 </div>
 <br>
 
-<img src="https://media.tenor.com/2ePv10lBD6EAAAAd/cat-kitty.gif" title="hello" height="243" align="right" alt="Hello, there!" width="300px">
+<img src="https://media.tenor.com/2ePv10lBD6EAAAAd/cat-kitty.gif" title="hello" alt="Hello, there!" width="350px">
 
 
 # Tech Stack
