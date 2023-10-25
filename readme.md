@@ -13,7 +13,7 @@
 You can find me here too 👇
 
 <div>
-<a href="" target="https://www.instagram.com/midowzzz/">
+<a href="https://www.instagram.com/midowzzz/"  target="_blank">
  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
