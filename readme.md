@@ -6,7 +6,7 @@
 
 👩‍💻 I'm a young boy focused on work and develop!
 
-🤘 Student on OneBitCode!
+🤘 Student on Univel!
 
 <br/>
 
