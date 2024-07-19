@@ -2,7 +2,7 @@
 
 
 
-👩‍🦱 I'm FullStack Developer & student!
+👩‍🦱 I'm Data Analyst & FullStack Developer!
 
 👩‍💻 I'm a young boy focused on work and develop!
 
