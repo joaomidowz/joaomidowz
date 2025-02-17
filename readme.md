@@ -9,7 +9,7 @@ Atualmente trabalho na **Garra International** como **Analista de Dados Júnior 
 Atuo principalmente no **Front-end**, criando interfaces dinâmicas e responsivas utilizando **React.js, Tailwind CSS e Bootstrap**. No Back-end, possuo experiência com **Node.js e Next.js**, sempre buscando melhorar minhas habilidades e expandir meu conhecimento.  
 
 - 🔭 Trabalhando no desenvolvimento do meu **portfólio** e na criação de **minha própria marca**  
-- 🌱 Aprimorando meus conhecimentos em **Python, C# e C**  
+- 🌱 Aprimorando meus conhecimentos em **Python, C#, PHP e C**  
 - 💬 Tenho experiência com **JavaScript, TypeScript, React, Next.js e Node.js**  
 - 📫 Como me encontrar: **[Meu e-mail](mailto:jgcustodio2005@gmail.com)**  
 
@@ -27,6 +27,7 @@ Atuo principalmente no **Front-end**, criando interfaces dinâmicas e responsiva
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB)
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp&logoColor=239120)
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=00599C)
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=777BB4)
 
 ### 🎨 **Front-end & UI**
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
