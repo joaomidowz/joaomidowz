@@ -6,11 +6,11 @@
 
 ## 🌍 **Portfólio**
 Acesse meu portfólio para conhecer melhor meus projetos e habilidades:  
-🔗 **[portifolio-joao-midowz.vercel.app](https://portifolio-joao-midowz.vercel.app)** 🚀
+🔗 **[portifolio-joao-midowz.vercel.app](https://portifolio-joao-midowz.vercel.app)** 
 
 ---
 
-## 🚀 **Sobre mim**
+##👋 **Sobre mim**
 Atualmente trabalho na **Garra International** como **Analista de Dados Júnior e Suporte**. Sou apaixonado por tecnologia, especialmente pelo desenvolvimento de aplicações web. Tenho grande interesse em **plugins, APIs e interfaces interativas**.  
 
 Atuo principalmente no **Front-end**, criando interfaces dinâmicas e responsivas utilizando **React.js, Tailwind CSS e Bootstrap**. No Back-end, possuo experiência com **Node.js e Next.js**, sempre buscando melhorar minhas habilidades e expandir meu conhecimento.  
