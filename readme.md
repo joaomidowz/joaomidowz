@@ -2,13 +2,19 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/joãomidowz)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaomidowz)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-joao-midowz.vercel.app)
+
+## 🌍 **Portfólio**
+Acesse meu portfólio para conhecer melhor meus projetos e habilidades:  
+🔗 **[portifolio-joao-midowz.vercel.app](https://portifolio-joao-midowz.vercel.app)** 🚀
+
+---
 
 ## 🚀 **Sobre mim**
 Atualmente trabalho na **Garra International** como **Analista de Dados Júnior e Suporte**. Sou apaixonado por tecnologia, especialmente pelo desenvolvimento de aplicações web. Tenho grande interesse em **plugins, APIs e interfaces interativas**.  
 
 Atuo principalmente no **Front-end**, criando interfaces dinâmicas e responsivas utilizando **React.js, Tailwind CSS e Bootstrap**. No Back-end, possuo experiência com **Node.js e Next.js**, sempre buscando melhorar minhas habilidades e expandir meu conhecimento.  
 
-- 🔭 Trabalhando no desenvolvimento do meu **portfólio** e na criação de **minha própria marca**  
 - 🌱 Aprimorando meus conhecimentos em **Python, C#, PHP e C**  
 - 💬 Tenho experiência com **JavaScript, TypeScript, React, Next.js e Node.js**  
 - 📫 Como me encontrar: **[Meu e-mail](mailto:jgcustodio2005@gmail.com)**  
@@ -51,7 +57,7 @@ Atuo principalmente no **Front-end**, criando interfaces dinâmicas e responsiva
 
 ## 📂 **Projetos Recentes**
 🔹 [Unichat](https://github.com/joaomidowz/unichat) - Plataforma de comunicação em tempo real  
-🔹 [Portfólio](https://github.com/joaomidowz/portfolio) - Meu site pessoal apresentando meus projetos e habilidades  
+🔹 [Portfólio](https://portifolio-joao-midowz.vercel.app) - Meu site pessoal apresentando meus projetos e habilidades  
 
 ---
 
