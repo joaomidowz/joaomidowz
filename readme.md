@@ -6,7 +6,7 @@
 
 ## 🌍 **Portfólio**
 Acesse meu portfólio para conhecer melhor meus projetos e habilidades:  
-🔗 **[portfolio-joao-midowz.vercel.app](https://portifolio-joao-midowz.vercel.app/)** 🚀
+🔗 **[portfolio-joao-midowz.vercel.app](https://portfolio-joao-midowz.vercel.app/)** 🚀
 
 ---
 
