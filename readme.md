@@ -57,7 +57,7 @@ Atuo principalmente no **Front-end**, criando interfaces dinâmicas e responsiva
 
 ## 📂 **Projetos Recentes**
 🔹 [Unichat](https://github.com/joaomidowz/unichat) - Plataforma de comunicação em tempo real  
-🔹 [Portfólio](https://portifolio-joao-midowz.vercel.app) - Meu site pessoal apresentando meus projetos e habilidades  
+🔹 [Portfólio](https://github.com/joaomidowz/portfolio) - Meu site pessoal apresentando meus projetos e habilidades  
 
 ---
 
